@@ -127,9 +127,7 @@ I believe that knowing the problem from the professional side gives me a differe
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexiscrme\&show_icons=true\&theme=dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexiscrme\&layout=compact\&theme=dark\&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexisCrM&theme=dark)](https://git.io/streak-stats)
 
 ---
 
@@ -139,7 +137,7 @@ I believe that knowing the problem from the professional side gives me a differe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](TU_LINKEDIN)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](TU_INSTAGRAM)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/alexis_crm/)
 
 ---
 
@@ -154,4 +152,6 @@ I started my professional career in **Nutrition** and I'm now learning how to bu
 <p align="center">
   <i>Building. Learning. Improving. One commit at a time.</i>
 </p>
+
+
 
